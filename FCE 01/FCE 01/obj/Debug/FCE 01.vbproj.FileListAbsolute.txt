@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\bin\Debug\FCE 01.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\bin\Debug\FCE 01.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\bin\Debug\FCE 01.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\bin\Debug\FCE 01.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\obj\Debug\FCE 01.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\obj\Debug\FCE_01.frmFCE.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\obj\Debug\FCE_01.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\obj\Debug\FCE 01.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\obj\Debug\FCE 01.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\obj\Debug\FCE 01.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\obj\Debug\FCE 01.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\FCE 01\FCE 01\obj\Debug\FCE 01.pdb

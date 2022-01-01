@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\bin\Debug\Kuidditch Referee Fee Kalculator.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\bin\Debug\Kuidditch Referee Fee Kalculator.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\bin\Debug\Kuidditch Referee Fee Kalculator.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\bin\Debug\Kuidditch Referee Fee Kalculator.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch_Referee_Fee_Kalculator.frmKuidditchRefereeFeeKalculator.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch_Referee_Fee_Kalculator.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.pdb

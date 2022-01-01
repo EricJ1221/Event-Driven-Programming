@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\bin\Debug\Loop Practice 001.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\bin\Debug\Loop Practice 001.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\bin\Debug\Loop Practice 001.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\bin\Debug\Loop Practice 001.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\obj\Debug\Loop Practice 001.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\obj\Debug\Loop_Practice_001.Form1.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\obj\Debug\Loop_Practice_001.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\obj\Debug\Loop Practice 001.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\obj\Debug\Loop Practice 001.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\obj\Debug\Loop Practice 001.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\obj\Debug\Loop Practice 001.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Loop Practice 001\Loop Practice 001\obj\Debug\Loop Practice 001.pdb

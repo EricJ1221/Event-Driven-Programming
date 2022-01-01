@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\bin\Debug\World Hunger Donut Shop Jr.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\bin\Debug\World Hunger Donut Shop Jr.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\bin\Debug\World Hunger Donut Shop Jr.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\bin\Debug\World Hunger Donut Shop Jr.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\obj\Debug\World Hunger Donut Shop Jr.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\obj\Debug\World_Hunger_Donut_Shop_Jr.frmWHDSJ.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\obj\Debug\World_Hunger_Donut_Shop_Jr.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\obj\Debug\World Hunger Donut Shop Jr.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\obj\Debug\World Hunger Donut Shop Jr.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\obj\Debug\World Hunger Donut Shop Jr.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\obj\Debug\World Hunger Donut Shop Jr.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\World Hunger Donut Shop Jr\World Hunger Donut Shop Jr\obj\Debug\World Hunger Donut Shop Jr.pdb

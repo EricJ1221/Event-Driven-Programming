@@ -1,0 +1,12 @@
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\bin\Debug\State Sales Tax Calculator.exe.config
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\bin\Debug\State Sales Tax Calculator.exe
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\bin\Debug\State Sales Tax Calculator.pdb
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\bin\Debug\State Sales Tax Calculator.xml
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.vbproj.AssemblyReference.cache
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State_Sales_Tax_Calculator.frmSSTC.resources
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State_Sales_Tax_Calculator.Resources.resources
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.vbproj.GenerateResource.cache
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.exe
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.xml
+C:\Users\erico\source\repos\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.pdb

@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\bin\Debug\Driving Directions.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\bin\Debug\Driving Directions.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\bin\Debug\Driving Directions.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\bin\Debug\Driving Directions.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\obj\Debug\Driving Directions.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\obj\Debug\Driving_Directions.drivingDirections.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\obj\Debug\Driving_Directions.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\obj\Debug\Driving Directions.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\obj\Debug\Driving Directions.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\obj\Debug\Driving Directions.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\obj\Debug\Driving Directions.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Driving Directions\Driving Directions\obj\Debug\Driving Directions.pdb

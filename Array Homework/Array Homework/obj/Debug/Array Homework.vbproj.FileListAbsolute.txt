@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\bin\Debug\Array Homework.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\bin\Debug\Array Homework.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\bin\Debug\Array Homework.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\bin\Debug\Array Homework.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\obj\Debug\Array Homework.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\obj\Debug\Array_Homework.Form1.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\obj\Debug\Array_Homework.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\obj\Debug\Array Homework.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\obj\Debug\Array Homework.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\obj\Debug\Array Homework.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\obj\Debug\Array Homework.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Array Homework\Array Homework\obj\Debug\Array Homework.pdb

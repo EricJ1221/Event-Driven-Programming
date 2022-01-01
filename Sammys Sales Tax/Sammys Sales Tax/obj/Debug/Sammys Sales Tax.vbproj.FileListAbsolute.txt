@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\bin\Debug\Sammys Sales Tax.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\bin\Debug\Sammys Sales Tax.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\bin\Debug\Sammys Sales Tax.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\bin\Debug\Sammys Sales Tax.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\obj\Debug\Sammys Sales Tax.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\obj\Debug\Sammys_Sales_Tax.frmSSTC.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\obj\Debug\Sammys_Sales_Tax.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\obj\Debug\Sammys Sales Tax.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\obj\Debug\Sammys Sales Tax.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\obj\Debug\Sammys Sales Tax.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\obj\Debug\Sammys Sales Tax.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Sammys Sales Tax\Sammys Sales Tax\obj\Debug\Sammys Sales Tax.pdb

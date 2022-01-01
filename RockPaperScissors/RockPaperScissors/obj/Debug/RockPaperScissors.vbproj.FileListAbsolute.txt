@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.frmRPS.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

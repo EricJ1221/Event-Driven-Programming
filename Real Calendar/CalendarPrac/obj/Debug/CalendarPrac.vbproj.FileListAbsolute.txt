@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\obj\Debug\CalendarPrac.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\obj\Debug\CalendarPrac.frmCalendar.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\obj\Debug\CalendarPrac.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\obj\Debug\CalendarPrac.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\obj\Debug\CalendarPrac.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\bin\Debug\CalendarPrac.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\bin\Debug\CalendarPrac.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\bin\Debug\CalendarPrac.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\bin\Debug\CalendarPrac.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\obj\Debug\CalendarPrac.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\obj\Debug\CalendarPrac.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\CalendarPrac\CalendarPrac\obj\Debug\CalendarPrac.pdb

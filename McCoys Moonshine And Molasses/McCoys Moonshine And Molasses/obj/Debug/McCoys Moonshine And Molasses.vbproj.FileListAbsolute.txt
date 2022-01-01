@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\bin\Debug\McCoys Moonshine And Molasses.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\bin\Debug\McCoys Moonshine And Molasses.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\bin\Debug\McCoys Moonshine And Molasses.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\bin\Debug\McCoys Moonshine And Molasses.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\obj\Debug\McCoys Moonshine And Molasses.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\obj\Debug\McCoys_Moonshine_And_Molasses.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\obj\Debug\McCoys Moonshine And Molasses.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\obj\Debug\McCoys Moonshine And Molasses.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\obj\Debug\McCoys Moonshine And Molasses.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\obj\Debug\McCoys Moonshine And Molasses.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\obj\Debug\McCoys Moonshine And Molasses.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\McCoys Moonshine And Molasses\McCoys Moonshine And Molasses\obj\Debug\McCoys_Moonshine_And_Molasses.frmMMAM.resources

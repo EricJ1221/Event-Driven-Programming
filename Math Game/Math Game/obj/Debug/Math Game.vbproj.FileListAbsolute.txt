@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\obj\Debug\Math Game.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\obj\Debug\Math_Game.frmMathGame.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\obj\Debug\Math_Game.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\obj\Debug\Math Game.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\obj\Debug\Math Game.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\bin\Debug\Math Game.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\bin\Debug\Math Game.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\bin\Debug\Math Game.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\bin\Debug\Math Game.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\obj\Debug\Math Game.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\obj\Debug\Math Game.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Math Game\Math Game\obj\Debug\Math Game.pdb

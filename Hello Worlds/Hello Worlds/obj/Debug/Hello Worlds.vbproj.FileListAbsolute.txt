@@ -1,0 +1,12 @@
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\bin\Debug\Hello Worlds.exe.config
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\bin\Debug\Hello Worlds.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\bin\Debug\Hello Worlds.pdb
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\bin\Debug\Hello Worlds.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.vbproj.AssemblyReference.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\obj\Debug\Hello_Worlds.frmHelloWorlds.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\obj\Debug\Hello_Worlds.Resources.resources
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.vbproj.GenerateResource.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.vbproj.CoreCompileInputs.cache
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.exe
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.xml
+C:\Users\erico\Documents\GitHub\CSCI-2311\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.pdb
